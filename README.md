@@ -1,4 +1,4 @@
-# 🔐 Information Security Lab -- Cryptography & Secure Systems
+# 🔐 Information Security Lab
 
 ## 📌 Project Overview
 
@@ -121,11 +121,12 @@ Through this project, I gained practical exposure to:
 
 ## 👨‍💻 Author
 
-Laxmidhar Penta\
+**Laxmidhar Penta**\
 B.Tech -- Information Technology\
+[GitHub Profile](https://github.com/LaxmidharPenta)
 
----
+------------------------------------------------------------------------
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE).
