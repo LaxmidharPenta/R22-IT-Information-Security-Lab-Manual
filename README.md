@@ -20,75 +20,75 @@ foundational cybersecurity concepts.
 ### 🔒 Symmetric Encryption
 
 -   AES encryption and decryption using Java Cryptography Architecture\
--   Secure key generation\
+-   Secure key generation
 -   Base64 encoding and decoding
 
 ### 🔐 Asymmetric Cryptography
 
--   RSA key generation\
--   Public and private key computation\
+-   RSA key generation
+-   Public and private key computation
 -   RSA encryption and decryption
 
 ### 🔑 Key Exchange Protocol
 
--   Diffie--Hellman key exchange implementation\
+-   Diffie--Hellman key exchange implementation
 -   Modular exponentiation for secure shared secret generation
 
 ### 🧾 Authentication & Integrity
 
--   MD5 hashing for signature verification\
+-   MD5 hashing for signature verification
 -   HMAC using SHA-256 for Message Authentication Codes
 
 ### 🎟 Kerberos Authentication Simulation
 
--   Ticket generation and validation\
--   Time-based session verification\
+-   Ticket generation and validation
+-   Time-based session verification
 -   AES-based secure ticket encryption
 
 ### 🌐 Secure Web Transaction
 
--   HTTPS client-server communication\
--   JSON payload transmission\
+-   HTTPS client-server communication
+-   JSON payload transmission
 -   Java HTTP Client API usage
 
 ### 🔏 Hybrid Encryption (PKI Concept)
 
--   AES symmetric encryption\
--   Encoded key exchange\
+-   AES symmetric encryption
+-   Encoded key exchange
 -   Demonstration of hybrid cryptosystem model
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
--   Java (JDK 8+)\
--   Java Cryptography Architecture (JCA)\
--   AES, RSA, MD5, HMAC-SHA256\
--   Java HTTP Client API\
--   HTML & JavaScript\
+-   Java (JDK 8+)
+-   Java Cryptography Architecture (JCA)
+-   AES, RSA, MD5, HMAC-SHA256
+-   Java HTTP Client API
+-   HTML & JavaScript
 -   Base64 Encoding
 
 ------------------------------------------------------------------------
 
 ## 🧠 Core Security Concepts Demonstrated
 
--   Symmetric & Asymmetric Encryption\
--   Digital Signatures\
--   Public Key Infrastructure (PKI)\
--   Secure Key Exchange\
--   Authentication & Authorization Models\
--   Cryptographic Hash Functions\
+-   Symmetric & Asymmetric Encryption
+-   Digital Signatures
+-   Public Key Infrastructure (PKI)
+-   Secure Key Exchange
+-   Authentication & Authorization Models
+-   Cryptographic Hash Functions
 -   Secure Communication over HTTPS
 
 ------------------------------------------------------------------------
 
 ## 💡 Skills Demonstrated
 
--   Implementation of cryptographic algorithms from scratch\
--   Strong understanding of modular arithmetic and encryption logic\
--   Secure system design fundamentals\
--   Authentication protocol modeling\
--   Secure data transmission handling\
+-   Implementation of cryptographic algorithms from scratch
+-   Strong understanding of modular arithmetic and encryption logic
+-   Secure system design fundamentals
+-   Authentication protocol modeling
+-   Secure data transmission handling
 -   Practical application of network security principles
 
 ------------------------------------------------------------------------
@@ -112,9 +112,9 @@ environment variables.
 
 Through this project, I gained practical exposure to:
 
--   Designing and implementing cryptographic systems\
--   Understanding real-world authentication protocols\
--   Secure coding practices\
+-   Designing and implementing cryptographic systems
+-   Understanding real-world authentication protocols
+-   Secure coding practices
 -   Applied cybersecurity fundamentals
 
 ------------------------------------------------------------------------
